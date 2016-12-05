@@ -2,7 +2,7 @@
 //  BlueColorEffect.swift
 //  Grade Calculator
 //
-//  Created by Syheed Ahmed on 6/20/15.
+//  Created by M. Ahmed on 6/20/15.
 //  Copyright (c) 2015 Syheed Ahmed. All rights reserved.
 //
 //Referencing Website: http://www.google.com/design/spec/style/color.html#color-color-palette
